@@ -48,3 +48,6 @@ a {
     padding: 16px;
     width: 200px;
 }
+.below-the-fold div{
+    width: 500px;
+}
