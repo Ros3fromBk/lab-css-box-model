@@ -45,8 +45,8 @@ To complete this lab, you will need to add the following styles. If you're uncle
 - [ ] Set all articles inside the element with the class of `.click-bait` to have `box-sizing` set to `border-box`.
 - [ ] Set all articles inside the element with the class of `.below-the-fold` to have a `display` of `inline-block`.
 - [√] Set the image inside the element with the class of `.below-the-fold` to have a `display` of `inline-block`.
-- [ ] Set the image inside the element with the class of `.below-the-fold` to have `16px` of margin and padding on all sides.
-- [ ] Set the image inside the element with the class of `.below-the-fold` to have a `width` of `200px`.
+- [√] Set the image inside the element with the class of `.below-the-fold` to have `16px` of margin and padding on all sides.
+- [√] Set the image inside the element with the class of `.below-the-fold` to have a `width` of `200px`.
 - [ ] Set the div inside the element with the class of `.below-the-fold` to have a `width` of `500px`.
 
 Once your complete with the above tasks, your page should look something like the image below.

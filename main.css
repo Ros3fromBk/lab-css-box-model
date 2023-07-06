@@ -45,5 +45,6 @@ a {
 .below-the-fold img {
     display:inline-block ;
     margin: 16px;
-    
+    padding: 16px;
+    width: 200px;
 }
