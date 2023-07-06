@@ -52,5 +52,6 @@ a {
     width: 500px;
 }
 .click-bait article {
+    display: inline-block;
     width: 250px;
 }
