@@ -34,9 +34,9 @@ To complete this lab, you will need to add the following styles. If you're uncle
 - [✅] Set all unordered lists to have no list-style.
 - [ ] Set all `span` elements inside the footer to have a `font-weight` of `700`.
 - [✅] Set all paragraph text inside the element with the class of `weather` to have a font size of `40px`.
-- [ ] Set all articles inside the `.above-the-fold` element to have a `display` value of `inline-block`.
+- [⁇] Set all articles inside the `.above-the-fold` element to have a `display` value of `inline-block`.
 - [✅] Set the `.weather` element to have a `width` of `300px`.
-- [ ] Set the `.weather` element to have a `2px gray border` on all sides.
+- [✅] Set the `.weather` element to have a `2px gray border` on all sides.
 - [ ] Set the `.breaking-news` element to have a top/down padding of `0px` and a left/right padding of `30px`.
 - [ ] Set the image inside of the `.breaking-news` element to have a `width` of `200px`.
 - [ ] Set all articles inside the element with the class of `.click-bait` to have a `display` of `inline-block`.
