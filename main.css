@@ -8,10 +8,19 @@ text-align: center;
 ul{
     list-style: none;
 }
-footer span{ 
+/* footer span{ 
     font-weight: 700px;
-    }
-
+    } */
 .weather p{
      font-size: 40px;
+}
+.above-the-fold{
+    display: inline-block;
+}
+*{
+    color: #4242EA;
+}
+.weather{
+    width:300px;
+    border: 2px solid gray;
 }
