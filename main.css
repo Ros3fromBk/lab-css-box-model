@@ -7,6 +7,31 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-family: serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: serif;
+    text-align: center;
+}
+
+h4 {
+    font-family: serif;
+    text-align: center;
+}
+
+h5 {
+    font-family: serif;
+    text-align: center;
+}
+
+h6 {
+    font-family: serif;
+    text-align: center;
+}
+
 ul {
     list-style: none;
 }
@@ -14,18 +39,21 @@ ul {
 /* .footer div li span{ 
     font-weight: 700px;
     } */
-footer span{ font-weight: 700;}
+footer span {
+    font-weight: 700;
+}
+
 .weather p {
     font-size: 40px;
 }
 
-.above-the-fold article{
+.above-the-fold article {
     display: inline-block;
 }
 
 a {
     color: #4242EA;
-    text-decoration:none;
+    text-decoration: none;
 }
 
 .weather {
@@ -44,18 +72,21 @@ a {
     width: 200px;
 }
 
-.below-the-fold article{
+.below-the-fold article {
     display: inline-block;
 }
+
 .below-the-fold img {
-    display:inline-block ;
+    display: inline-block;
     margin: 16px;
     padding: 16px;
     width: 200px;
 }
-.below-the-fold div{
+
+.below-the-fold div {
     width: 500px;
 }
+
 .click-bait article {
     display: inline-block;
     margin: 16px;
