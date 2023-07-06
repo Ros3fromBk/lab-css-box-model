@@ -1,35 +1,49 @@
-p{
-    font-family:sans-serif ;
+p {
+    font-family: sans-serif;
 }
-h1{
-font-family: serif;
-text-align: center;
+
+h1 {
+    font-family: serif;
+    text-align: center;
 }
-ul{
+
+ul {
     list-style: none;
 }
-/* footer span{ 
+
+/* .footer div li span{ 
     font-weight: 700px;
     } */
-.weather p{
-     font-size: 40px;
+.weather p {
+    font-size: 40px;
 }
-.above-the-fold{
+
+.above-the-fold {
     display: inline-block;
 }
-a{
+
+a {
     color: #4242EA;
 }
-.weather{
-    width:300px;
+
+.weather {
+    width: 300px;
     border: 2px solid gray;
 }
-.breaking-news{
-    padding: top 0px; ;
+
+.breaking-news {
+    padding: top 0px;
     padding-bottom: 0px;
     padding: left 30px;
-    padding-right: 30px ;
+    padding-right: 30px;
 }
-    .breaking-news img{
 
-    }
+.breaking-news img {
+    width: 200px;
+}
+
+.below-the-fold img {
+    display:inline-block ;
+    margin: 16px;
+    
+}
