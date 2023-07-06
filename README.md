@@ -40,7 +40,7 @@ To complete this lab, you will need to add the following styles. If you're uncle
 - [✅] Set the `.breaking-news` element to have a top/down padding of `0px` and a left/right padding of `30px`.
 - [√] Set the image inside of the `.breaking-news` element to have a `width` of `200px`.
 - [ ] Set all articles inside the element with the class of `.click-bait` to have a `display` of `inline-block`.
-- [ ] Set all articles inside the element with the class of `.click-bait` to have a `width` of `250px`.
+- [√ ] Set all articles inside the element with the class of `.click-bait` to have a `width` of `250px`.
 - [ ] Set all articles inside the element with the class of `.click-bait` to have `16px` of margin and padding on all sides.
 - [ ] Set all articles inside the element with the class of `.click-bait` to have `box-sizing` set to `border-box`.
 - [ ] Set all articles inside the element with the class of `.below-the-fold` to have a `display` of `inline-block`.
