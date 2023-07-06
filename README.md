@@ -26,8 +26,8 @@ To complete this lab, you will need to add the following styles. If you're uncle
 }
 ```
 
-- [ ] Set all paragraph text to have a font of `sans-serif`.
-- [ ] Set all heading text to have a font of `serif`.
+- [✅ ] Set all paragraph text to have a font of `sans-serif`.
+- [✅ ] Set all heading text to have a font of `serif`.
 - [ ] Set all heading text to be centered.
 - [ ] Set all anchor elements to have no text decoration.
 - [ ] Set all anchor elements to have a color of `#4242EA`.
