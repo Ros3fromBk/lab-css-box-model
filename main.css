@@ -25,6 +25,7 @@ footer span{ font-weight: 700;}
 
 a {
     color: #4242EA;
+    text-decoration:none;
 }
 
 .weather {

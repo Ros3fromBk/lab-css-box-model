@@ -32,7 +32,7 @@ To complete this lab, you will need to add the following styles. If you're uncle
 - [ ] Set all anchor elements to have no text decoration.
 - [✅] Set all anchor elements to have a color of `#4242EA`.
 - [✅] Set all unordered lists to have no list-style.
-- [ ] Set all `span` elements inside the footer to have a `font-weight` of `700`.
+- [√] Set all `span` elements inside the footer to have a `font-weight` of `700`.
 - [✅] Set all paragraph text inside the element with the class of `weather` to have a font size of `40px`.
 - [✅] Set all articles inside the `.above-the-fold` element to have a `display` value of `inline-block`.
 - [✅] Set the `.weather` element to have a `width` of `300px`.
