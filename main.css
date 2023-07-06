@@ -14,11 +14,12 @@ ul {
 /* .footer div li span{ 
     font-weight: 700px;
     } */
+footer span{ font-weight: 700;}
 .weather p {
     font-size: 40px;
 }
 
-.above-the-fold {
+.above-the-fold article{
     display: inline-block;
 }
 
@@ -42,6 +43,9 @@ a {
     width: 200px;
 }
 
+.below-the-fold article{
+    display: inline-block;
+}
 .below-the-fold img {
     display:inline-block ;
     margin: 16px;
@@ -53,5 +57,8 @@ a {
 }
 .click-bait article {
     display: inline-block;
+    margin: 16px;
+    padding: 16px;
     width: 250px;
+    box-sizing: border-box;
 }
